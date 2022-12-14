@@ -6,7 +6,8 @@
   }
   
   body{
-    background-color: #121224;
+    background-image: linear-gradient(to right,rgb(14, 24, 167)
+    rgb(7, 14, 104),);
     width: 100%;
     height: 100vh;
     display: flex;
