@@ -6,8 +6,7 @@
   }
   
   body{
-    background-image: linear-gradient(to right,rgb(14, 24, 167)
-    rgb(7, 14, 104),);
+    background-image: linear-gradient(to right, rgb(32, 32, 245),rgb(108, 108, 247));
     width: 100%;
     height: 100vh;
     display: flex;
@@ -113,6 +112,11 @@
   }
 
 @media screen and (max-width:500px){
+
+  body{
+    background-image: linear-gradient(to right, rgb(13, 13, 70),rgb(51, 51, 107));
+  }
+
   .logo{
     max-width: 280px;
     margin-bottom: 20px;
